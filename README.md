@@ -2,6 +2,10 @@
 
 Aplicação web de chat desenvolvida com PHP, MySQL, HTML, CSS e Bootstrap, com foco em autenticação de usuários, gerenciamento de mensagens e integração com banco de dados relacional.
 
+🚀 Acesse o projeto online
+
+🔗 [https://SEU-LINK.infinityfreeapp.com](https://luizchat.infinityfree.me)
+
 ## 🚀 Funcionalidades
 
 * Cadastro de usuários
